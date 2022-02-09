@@ -1,6 +1,6 @@
 {
   "name": "@ditus/pagination-util",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A JavaScript library for working with pagination.",
   "private": false,
   "main": "dist/index.js",
