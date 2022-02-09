@@ -1,6 +1,6 @@
 {
   "name": "@ditus/pagination-util",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A JavaScript library for working with pagination.",
   "private": false,
   "main": "dist/index.js",
@@ -11,14 +11,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ditus-software/upc-pagination.git"
+    "url": "git+https://github.com/ditus-software/pagination-util.git"
   },
   "author": "DITUS INC. <ditus@rocketmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/ditus-software/upc-pagination/issues"
+    "url": "https://github.com/ditus-software/pagination-util/issues"
   },
-  "homepage": "https://github.com/ditus-software/upc-pagination#readme",
+  "homepage": "https://github.com/ditus-software/pagination-util#readme",
   "peerDependencies": {
   },
   "devDependencies": {
